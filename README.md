@@ -4,7 +4,7 @@ This project builds upon the research of:
 
 > **Baly et al. (2020)**  
 > *We Can Detect Your Bias: Predicting the Political Ideology of News Articles*  
-> [https://doi.org/10.18653/v1/2020.acl-main.428](https://doi.org/10.18653/v1/2020.acl-main.428)
+> [https://doi.org/10.18653/v1/2020.acl-main.428](https://aclanthology.org/2020.emnlp-main.404/)
 
 
 
